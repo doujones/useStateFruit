@@ -1,2 +1,0 @@
-# useStateFruit
-Created with CodeSandbox
